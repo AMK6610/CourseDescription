@@ -1,37 +1,42 @@
-# ­­Awesome UT CE Course Description
+
+
+­­<h1> <img src="ut-logo.png" width="30"> 
+Awesome UT CE Course Description 
+<img src="faculty-logo.png" width="40"></h1>
+
+
 
 Author :
 
 **Amir Mohammad Karimi Mamaghan**
 
-- [­­Awesome UT CE Course Description](#awesome-ut-ce-course-description)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Deep Learning with Applications](#deep-learning-with-applications)
-  - [Calculus I](#calculus-i)
-  - [Calculus II](#calculus-ii)
-  - [Differential Equations](#differential-equations)
-  - [Engineering Probability and Statistics](#engineering-probability-and-statistics)
-  - [Engineering Mathematics](#engineering-mathematics)
-  - [Systems Analysis](#systems-analysis)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Data Structures](#data-structures)
-  - [Algorithm Design I](#algorithm-design-i)
-  - [Machines and Language Theory](#machines-and-language-theory)
-  - [Advanced Programming](#advanced-programming)
-  - [Compiler Design and Implementation](#compiler-design-and-implementation)
-  - [Operating Systems](#operating-systems)
-  - [Database Design](#database-design)
-  - [Computer Networks](#computer-networks)
-  - [Internet Engineering](#internet-engineering)
-  - [Programming Languages Design](#programming-languages-design)
-  - [Software Engineering](#software-engineering)
-  - [Introduction to Software Testing](#introduction-to-software-testing)
-  - [Computer Networks Security](#computer-networks-security)
-  - [Object Oriented Systems Design](#object-oriented-systems-design)
-  - [Computer Aided Digital System Design](#computer-aided-digital-system-design)
-  - [Logic Circuits](#logic-circuits)
-  - [Electrical Circuits](#electrical-circuits)
-  - [Computer Architecture](#computer-architecture)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Deep Learning with Applications](#deep-learning-with-applications)
+- [Calculus I](#calculus-i)
+- [Calculus II](#calculus-ii)
+- [Differential Equations](#differential-equations)
+- [Engineering Probability and Statistics](#engineering-probability-and-statistics)
+- [Engineering Mathematics](#engineering-mathematics)
+- [Systems Analysis](#systems-analysis)
+- [Discrete Mathematics](#discrete-mathematics)
+- [Data Structures](#data-structures)
+- [Algorithm Design I](#algorithm-design-i)
+- [Machines and Language Theory](#machines-and-language-theory)
+- [Advanced Programming](#advanced-programming)
+- [Compiler Design and Implementation](#compiler-design-and-implementation)
+- [Operating Systems](#operating-systems)
+- [Database Design](#database-design)
+- [Computer Networks](#computer-networks)
+- [Internet Engineering](#internet-engineering)
+- [Programming Languages Design](#programming-languages-design)
+- [Software Engineering](#software-engineering)
+- [Introduction to Software Testing](#introduction-to-software-testing)
+- [Computer Networks Security](#computer-networks-security)
+- [Object Oriented Systems Design](#object-oriented-systems-design)
+- [Computer Aided Digital System Design](#computer-aided-digital-system-design)
+- [Logic Circuits](#logic-circuits)
+- [Electrical Circuits](#electrical-circuits)
+- [Computer Architecture](#computer-architecture)
 
 ## Artificial Intelligence
 
