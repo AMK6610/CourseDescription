@@ -40,11 +40,9 @@ Author :
 
 ## Artificial Intelligence
 
-**Textbook(s):**&quot;Artificial Intelligence, A Modern Approach&quot; 2nd Edition, Stuart Russell and Peter Norvig, Prentice Hall
+**Textbook(s):** &quot;Artificial Intelligence, A Modern Approach&quot; 2nd Edition, Stuart Russell and Peter Norvig, Prentice Hall
 
-**Topics:** Intelligent agents | Problem solving, complexity metrics | Uninformed search (BFS, DFS, Uniform cost, depth-limited, iterative deepening) | Informed search (Greedy, A\*) | Other search (simulated annealing, genetic algorithms) | Game playing (minimax, alpha-beta pruning, nondeterministic games) | Knowledge-based agents | Propositional logic, syntax, semantics, inference, limitations | First-order logic (including inference, unification, Goedel&#39;s theorem, generalized modus ponens, resolution, forward
-
-chaining, backward chaining, situation calculus) | Building a knowledge base (ontologies, translation between English and FOL, difficult cases like events, substances, composite objects) | Logical reasoning systems (Implementing indexing, retrieval and unification. Theorem provers. Frame systems and semantic networks) | Planning (including STRIPS) | Uncertainty | Decision Trees | Fuzzy logic | Neural networks (including Hopfield, perceptrons, backpropagation)
+**Topics:** Intelligent agents | Problem solving, complexity metrics | Uninformed search (BFS, DFS, Uniform cost, depth-limited, iterative deepening) | Informed search (Greedy, A\*) | Other search (simulated annealing, genetic algorithms) | Game playing (minimax, alpha-beta pruning, nondeterministic games) | Knowledge-based agents | Propositional logic, syntax, semantics, inference, limitations | First-order logic (including inference, unification, Goedel&#39;s theorem, generalized modus ponens, resolution, forward chaining, backward chaining, situation calculus) | Building a knowledge base (ontologies, translation between English and FOL, difficult cases like events, substances, composite objects) | Logical reasoning systems (Implementing indexing, retrieval and unification. Theorem provers. Frame systems and semantic networks) | Planning (including STRIPS) | Uncertainty | Decision Trees | Fuzzy logic | Neural networks (including Hopfield, perceptrons, backpropagation)
 
 
 
@@ -108,9 +106,7 @@ chaining, backward chaining, situation calculus) | Building a knowledge base (on
 
 **Textbook(s):** Discrete Mathematics and Its Applications by Kenneth H. Rosen
 
-**Topics:** Fundamental of Logic and Proofs | Sets, Functions, Sequences and Sums |
-
-The Fundamentals: Invariance Principles, Number Theory | Induction and Recursion | Counting | Advanced Counting Techniques (recurrence relations, generating functions, inclusion-exclusion) | Relations | Graph (terminology, representations, isomorphism and homomorphism, connectivity, Euler and Hamiltonian paths, Dijkstra, planar graphs, graph coloring) | Trees (properties, spanning trees, BFS, DFS, Kruskal and Prim algorithms)
+**Topics:** Fundamental of Logic and Proofs | Sets, Functions, Sequences and Sums | The Fundamentals: Invariance Principles, Number Theory | Induction and Recursion | Counting | Advanced Counting Techniques (recurrence relations, generating functions, inclusion-exclusion) | Relations | Graph (terminology, representations, isomorphism and homomorphism, connectivity, Euler and Hamiltonian paths, Dijkstra, planar graphs, graph coloring) | Trees (properties, spanning trees, BFS, DFS, Kruskal and Prim algorithms)
 
 
 
@@ -189,21 +185,16 @@ Inc., 2016 | P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prenti
 
 ## Programming Languages Design
 
-**Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot ,5th Edition, 2012 | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2007 | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;,
-
+**Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot;, 5thEdition, 2012. | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2007 | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;,
 3rd Edition, 2013.
 
 **Topics:** Finite automata, regular languages, and regular grammars | Context free grammars, languages, and pushdown automata | Context sensitive grammars, languages | Turing machines, unrestricted grammars | Decidability | Computational complexity
 
 ## Software Engineering
 
-**Textbook(s):** Roger S. Pressman and Bruce R. Maxim, Software Engineering: A
+**Textbook(s):** Roger S. Pressman and Bruce R. Maxim, Software Engineering: A Practitioner&#39;s Approach. 8th ed., McGrawHill, 2014.
 
-Practitioner&#39;s Approach. 8th ed., McGrawHill, 2014.
-
-**Topics:** An Introduction to Software Engineering | Software Development Processes and Models – Iterative Development | An overview of software analysis | Software design: design principles, patterns, refactoring | Software Architecture: Design, Documentation and Evaluation | Software testing | Software Quality Managemen | Cost and time estimation | Project Management - Human Resources Management - Risk
-
-Management | Life Cycle Management - Change Management – Configuration Management | Agile methods
+**Topics:** An Introduction to Software Engineering | Software Development Processes and Models – Iterative Development | An overview of software analysis | Software design: design principles, patterns, refactoring | Software Architecture: Design, Documentation and Evaluation | Software testing | Software Quality Managemen | Cost and time estimation | Project Management - Human Resources Management - Risk Management | Life Cycle Management - Change Management – Configuration Management | Agile methods
 
 ## Introduction to Software Testing
 
@@ -215,7 +206,7 @@ Management | Life Cycle Management - Change Management – Configuration Managem
 
 ## Computer Networks Security
 
-**Textbook(s):**&quot;Network Security Essentials: Applications and Standards&quot;, William Stallings, 6th ed., Pearson, 2017
+**Textbook(s):** &quot;Network Security Essentials: Applications and Standards&quot;, William Stallings, 6th ed., Pearson, 2017
 
 **Topics:** Fundamentals of Cryptography | Fundamentals of Computer Networks | Key Management | Authentication | Internet Security (Web, Firewall, Email, IDS, VPN / IPSec, DNS Security) | Wireless Security | Access Control | Malwares and Attacks
 
@@ -223,7 +214,7 @@ Management | Life Cycle Management - Change Management – Configuration Managem
 
 ## Object Oriented Systems Design
 
-**Textbook(s):**J. Arlow and I. Neustadt, UML 2 and the Unified Process, 2nd ed., Addison-Wesley, 2005 | R. Martin, Agile Principles, Patterns, and Practices in C#, Prentice Hall, 2006 | E. Gamma, R. Helm, R. Johnson, J. Vlissides, Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 1995 | E. Evans, Domain Driven Design, Addison-Wesley, 2003.
+**Textbook(s):** J. Arlow and I. Neustadt, UML 2 and the Unified Process, 2nd ed., Addison-Wesley, 2005 | R. Martin, Agile Principles, Patterns, and Practices in C#, Prentice Hall, 2006 | E. Gamma, R. Helm, R. Johnson, J. Vlissides, Design Patterns: Elements of Reusable Object-Oriented Software. Addison Wesley, 1995 | E. Evans, Domain Driven Design, Addison-Wesley, 2003.
 
 **Topics:** Introduction and Principles of Object-Oriented Design | Introducing the Evolutionary History of Object Oriented Analysis and Design | Introduction to the Unified Modeling Language (UML) | Design patterns | Domain Driven Design
 
