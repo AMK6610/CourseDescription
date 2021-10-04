@@ -40,7 +40,7 @@ Author :
 
 ## Artificial Intelligence
 
-**Textbook(s):** &quot;Artificial Intelligence, A Modern Approach&quot; 2nd Edition, Stuart Russell and Peter Norvig, Prentice Hall
+**Textbook(s):** &quot;Artificial Intelligence, A Modern Approach&quot; 3rd Edition, Stuart Russell and Peter Norvig, Prentice Hall
 
 **Topics:** Intelligent agents | Problem solving, complexity metrics | Uninformed search (BFS, DFS, Uniform cost, depth-limited, iterative deepening) | Informed search (Greedy, A\*) | Other search (simulated annealing, genetic algorithms) | Game playing (minimax, alpha-beta pruning, nondeterministic games) | Knowledge-based agents | Propositional logic, syntax, semantics, inference, limitations | First-order logic (including inference, unification, Goedel&#39;s theorem, generalized modus ponens, resolution, forward chaining, backward chaining, situation calculus) | Building a knowledge base (ontologies, translation between English and FOL, difficult cases like events, substances, composite objects) | Logical reasoning systems (Implementing indexing, retrieval and unification. Theorem provers. Frame systems and semantic networks) | Planning (including STRIPS) | Uncertainty | Decision Trees | Fuzzy logic | Neural networks (including Hopfield, perceptrons, backpropagation)
 
