@@ -81,9 +81,9 @@ Author :
 
 ## Engineering Probability and Statistics
 
-**Textbook(s):** Probability and Statistics, Papoulis
+**Textbook(s):** Probability and Statistics, Papoulis | A First Course in Probability,Sheldon Ross   , 8th Edition
 
-**Topics:** Set theory | Conditional probability | Repeated trials | Random variables |Conditional distributions | Regression | Sequence of random variables | Asymptotic theorems | Central limits theorem
+**Topics:** Set theory | Conditional probability | Repeated trials | Random variables | Conditional distributions | Regression | Sequence of random variables | Asymptotic theorems | Central limits theorem | CI and Hypothesis Testing
 
 
 
