@@ -21,7 +21,7 @@ Author :
 - [Discrete Mathematics](#discrete-mathematics)
 - [Data Structures](#data-structures)
 - [Algorithm Design I](#algorithm-design-i)
-- [Machines and Language Theory](#machines-and-language-theory)
+- [Formal Languages and Automata Theory](#formal-languages-and-automata-theory)
 - [Advanced Programming](#advanced-programming)
 - [Compiler Design and Implementation](#compiler-design-and-implementation)
 - [Operating Systems](#operating-systems)
@@ -127,7 +127,7 @@ Author :
 
 
 
-## Machines and Language Theory
+## Formal Languages and Automata Theory
 
 **Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot;, 5thEdition, 2012. | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2006. | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;, 3rd Edition, 2013.
 
