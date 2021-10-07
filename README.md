@@ -89,7 +89,7 @@ Author :
 
 ## Engineering Mathematics
 
-**Textbook(s):** Engineering Mathematics, Dr. J. Rashed Mohassel
+**Textbook(s):** Engineering Mathematics, Dr. J. Rashed Mohassel | Advanced Engineering Mathematics, C. Ray Wylie and Louis C. Barrett | Advanced Engineering Mathematics, Erwing Kreyszig, 10th Edition | Complex Variables and Applications, James Ward Brown and Ruel V. Churchill, 8th Edition | Elementary Applied Partial Differential Equations With Fourier Series And Boundary Value Problems, Richard Haberman, 2nd Edition | Elementary Applied Partial Differential Equations With Fourier Series And Boundary Value Problems, Gerald B. Folland | Fourier Series and Boundary Value Problems, James Ward Brown and Ruel V. Churchill, 8th Edition
 
 **Topics:** Fourier series | Fourier transform | Wave equations | Heat equation | Partialdifferential equations | Laplace Transform | Complex calculus | Integral in complex plane | Residue theorem
 
