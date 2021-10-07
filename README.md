@@ -137,8 +137,7 @@ Author :
 
 ## Advanced Programming
 
-**Textbook(s):** P.J. Deitel and H.M. Deitel, C++ How to Program. 10th ed., Prentice-Hall
-Inc., 2016 | P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prentice Hall Inc., 2016.
+**Textbook(s):** P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prentice Hall Inc., 2016 | Programming Principles and Prictice Using C++, Bjarne Stroustrup, Second Edition
 
 **Topics:** Overview of the basics of programming | Top-down design | Basic concepts of object-oriented programming: real-world modeling | Basic object-oriented programming structures: object, class, method, constructor | Inheritance and polymorphism | Memory Management - An Introduction to Dynamic Data Structures | Generic Programming | Handling Errors and Exceptions | Input / Output libraries | Standard data-structure libraries | Create graphical user interface | Text processing and threads | Introduction to concurrent programming | Test and debug the program
 
