@@ -56,7 +56,7 @@ Author :
 
 ## Calculus I
 
-**Textbook(s):** Calculus, Thomas
+**Textbook(s):** Calculus, Thomas | Single Variable Calculus, James Stewart
 
 **Topics:** Single variable calculus | Limit | Integral | Taylor series | Improper Integral andseries
 
