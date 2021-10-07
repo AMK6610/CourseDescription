@@ -21,7 +21,7 @@ Author :
 - [Discrete Mathematics](#discrete-mathematics)
 - [Data Structures](#data-structures)
 - [Algorithm Design I](#algorithm-design-i)
-- [Machines and Language Theory](#machines-and-language-theory)
+- [Formal Languages and Automata Theory](#formal-languages-and-automata-theory)
 - [Advanced Programming](#advanced-programming)
 - [Compiler Design and Implementation](#compiler-design-and-implementation)
 - [Operating Systems](#operating-systems)
@@ -30,6 +30,7 @@ Author :
 - [Internet Engineering](#internet-engineering)
 - [Programming Languages Design](#programming-languages-design)
 - [Software Engineering](#software-engineering)
+- [Introduction to Computing Systems and Programming](#introduction-to-computing-systems-and-programming)
 - [Introduction to Software Testing](#introduction-to-software-testing)
 - [Computer Networks Security](#computer-networks-security)
 - [Object Oriented Systems Design](#object-oriented-systems-design)
@@ -40,7 +41,7 @@ Author :
 
 ## Artificial Intelligence
 
-**Textbook(s):** &quot;Artificial Intelligence, A Modern Approach&quot; 2nd Edition, Stuart Russell and Peter Norvig, Prentice Hall
+**Textbook(s):** &quot;Artificial Intelligence, A Modern Approach&quot; 3rd Edition, Stuart Russell and Peter Norvig, Prentice Hall
 
 **Topics:** Intelligent agents | Problem solving, complexity metrics | Uninformed search (BFS, DFS, Uniform cost, depth-limited, iterative deepening) | Informed search (Greedy, A\*) | Other search (simulated annealing, genetic algorithms) | Game playing (minimax, alpha-beta pruning, nondeterministic games) | Knowledge-based agents | Propositional logic, syntax, semantics, inference, limitations | First-order logic (including inference, unification, Goedel&#39;s theorem, generalized modus ponens, resolution, forward chaining, backward chaining, situation calculus) | Building a knowledge base (ontologies, translation between English and FOL, difficult cases like events, substances, composite objects) | Logical reasoning systems (Implementing indexing, retrieval and unification. Theorem provers. Frame systems and semantic networks) | Planning (including STRIPS) | Uncertainty | Decision Trees | Fuzzy logic | Neural networks (including Hopfield, perceptrons, backpropagation)
 
@@ -56,7 +57,7 @@ Author :
 
 ## Calculus I
 
-**Textbook(s):** Calculus, Thomas
+**Textbook(s):** Calculus, Thomas | Single Variable Calculus, James Stewart
 
 **Topics:** Single variable calculus | Limit | Integral | Taylor series | Improper Integral andseries
 
@@ -80,15 +81,15 @@ Author :
 
 ## Engineering Probability and Statistics
 
-**Textbook(s):** Probability and Statistics, Papoulis
+**Textbook(s):** Probability and Statistics, Papoulis | A First Course in Probability,Sheldon Ross   , 8th Edition
 
-**Topics:** Set theory | Conditional probability | Repeated trials | Random variables |Conditional distributions | Regression | Sequence of random variables | Asymptotic theorems | Central limits theorem
+**Topics:** Set theory | Conditional probability | Repeated trials | Random variables | Conditional distributions | Regression | Sequence of random variables | Asymptotic theorems | Central limits theorem | CI and Hypothesis Testing
 
 
 
 ## Engineering Mathematics
 
-**Textbook(s):** Engineering Mathematics, Dr. J. Rashed Mohassel
+**Textbook(s):** Engineering Mathematics, Dr. J. Rashed Mohassel | Advanced Engineering Mathematics, C. Ray Wylie and Louis C. Barrett | Advanced Engineering Mathematics, Erwing Kreyszig, 10th Edition | Complex Variables and Applications, James Ward Brown and Ruel V. Churchill, 8th Edition | Elementary Applied Partial Differential Equations With Fourier Series And Boundary Value Problems, Richard Haberman, 2nd Edition | Elementary Applied Partial Differential Equations With Fourier Series And Boundary Value Problems, Gerald B. Folland | Fourier Series and Boundary Value Problems, James Ward Brown and Ruel V. Churchill, 8th Edition
 
 **Topics:** Fourier series | Fourier transform | Wave equations | Heat equation | Partialdifferential equations | Laplace Transform | Complex calculus | Integral in complex plane | Residue theorem
 
@@ -126,7 +127,7 @@ Author :
 
 
 
-## Machines and Language Theory
+## Formal Languages and Automata Theory
 
 **Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot;, 5thEdition, 2012. | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2006. | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;, 3rd Edition, 2013.
 
@@ -136,8 +137,7 @@ Author :
 
 ## Advanced Programming
 
-**Textbook(s):** P.J. Deitel and H.M. Deitel, C++ How to Program. 10th ed., Prentice-Hall
-Inc., 2016 | P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prentice Hall Inc., 2016.
+**Textbook(s):** P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prentice Hall Inc., 2016 | Programming Principles and Prictice Using C++, Bjarne Stroustrup, Second Edition
 
 **Topics:** Overview of the basics of programming | Top-down design | Basic concepts of object-oriented programming: real-world modeling | Basic object-oriented programming structures: object, class, method, constructor | Inheritance and polymorphism | Memory Management - An Introduction to Dynamic Data Structures | Generic Programming | Handling Errors and Exceptions | Input / Output libraries | Standard data-structure libraries | Create graphical user interface | Text processing and threads | Introduction to concurrent programming | Test and debug the program
 
@@ -249,3 +249,9 @@ Inc., 2016 | P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prenti
 **Textbook(s):** D. A. Patterson, and J. L. Hennessy, &quot;Computer Organization and Design: The Hardware/Software Interface&quot;, 4th Edition, Morgan Kaufmann Publishers, 2014
 
 **Topics:** Computer Arithmetic | Instruction Set Architecture (ISA) | MIPS Single-Cycle/Multi-Cycle Implementation | Performance Evaluation | MIPS Pipeline Implementation | Memory Hierarchy (including Cache, Main Memory and Secondary Storage) | Input / Output System | Multicore Processors Architecture
+
+## Introduction to Computing Systems and Programming
+
+**Textbook(s):** Yale Patt and Sanjay Patel, Introduction to Computing Systems From bits and gates to C and beyond-McGraw-Hill, 2005 | The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie, Second Edition | C How to Programm, P. J. Deitel, H. Deitel, Pearson 2015
+
+**Topics:** Base Convertion | Binary Operation | Floating Point | Flow Chart | C Compiler | Introduction to C Proggramming Language | Top-Down Design | Pointers | Debugging | Digital Logic Structure | Data Structure | The Von Neuman Model | Assembly Language
