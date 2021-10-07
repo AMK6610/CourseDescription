@@ -30,6 +30,7 @@ Author :
 - [Internet Engineering](#internet-engineering)
 - [Programming Languages Design](#programming-languages-design)
 - [Software Engineering](#software-engineering)
+- [Introduction to Computing Systems and Programming](#introduction-to-computing-systems-and-programming)
 - [Introduction to Software Testing](#introduction-to-software-testing)
 - [Computer Networks Security](#computer-networks-security)
 - [Object Oriented Systems Design](#object-oriented-systems-design)
@@ -249,3 +250,9 @@ Inc., 2016 | P.J. Deitel and H.M. Deitel, Java: How to program. 10th ed., Prenti
 **Textbook(s):** D. A. Patterson, and J. L. Hennessy, &quot;Computer Organization and Design: The Hardware/Software Interface&quot;, 4th Edition, Morgan Kaufmann Publishers, 2014
 
 **Topics:** Computer Arithmetic | Instruction Set Architecture (ISA) | MIPS Single-Cycle/Multi-Cycle Implementation | Performance Evaluation | MIPS Pipeline Implementation | Memory Hierarchy (including Cache, Main Memory and Secondary Storage) | Input / Output System | Multicore Processors Architecture
+
+## Introduction to Computing Systems and Programming
+
+**Textbook(s):** Yale Patt and Sanjay Patel, Introduction to Computing Systems From bits and gates to C and beyond-McGraw-Hill, 2005 | The C Programming Language, Brian W. Kernighan and Dennis M. Ritchie, Second Edition | C How to Programm, P. J. Deitel, H. Deitel, Pearson 2015
+
+**Topics:** Base Convertion | Binary Operation | Floating Point | Flow Chart | C Compiler | Introduction to C Proggramming Language | Top-Down Design | Pointers | Debugging | Digital Logic Structure | Data Structure | The Von Neuman Model | Assembly Language
