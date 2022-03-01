@@ -28,7 +28,6 @@ Author :
 - [Database Design](#database-design)
 - [Computer Networks](#computer-networks)
 - [Internet Engineering](#internet-engineering)
-- [Programming Languages Design](#programming-languages-design)
 - [Software Engineering](#software-engineering)
 - [Introduction to Computing Systems and Programming](#introduction-to-computing-systems-and-programming)
 - [Introduction to Software Testing](#introduction-to-software-testing)
@@ -180,15 +179,6 @@ Author :
 **Textbook(s):** M. Fowler, Patterns of Enterprise Application Architecture. Addison-Wesley, 2003 | D.C. Ashmore, The Java EE Architect&#39;s Handbook. 2nd ed., DVT Press,2014 | M. Harwood, M. Goncalves, and M. Pemble, Security Strategies in Web Applications and Social Networking. Jones &amp; Bartlett Learning, 2010.
 
 **Topics:** An Introduction to Web- HTTP protocol - Web page design | Create simple web applications (based on Servlet, PHP or .NET) | 3-tier architectural pattern | Connection to Databases - Mapping Objects to Relations | Domain logic organization | Frameworks and layout patterns on the web | Manage Sessions | Concurrency control on web systems | Distributed web systems | Clustering and cloud computing | Web application&#39;s security | Create Authenticated Web Sites | Performance of Web-based systems | Web services | Semantic web, social networks | User interface design on the web | Mobile programming on the web
-
-
-
-## Programming Languages Design
-
-**Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot;, 5thEdition, 2012. | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2007 | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;,
-3rd Edition, 2013.
-
-**Topics:** Finite automata, regular languages, and regular grammars | Context free grammars, languages, and pushdown automata | Context sensitive grammars, languages | Turing machines, unrestricted grammars | Decidability | Computational complexity
 
 ## Software Engineering
 
