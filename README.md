@@ -17,18 +17,17 @@ Author :
 - [Differential Equations](#differential-equations)
 - [Engineering Probability and Statistics](#engineering-probability-and-statistics)
 - [Engineering Mathematics](#engineering-mathematics)
-- [Systems Analysis](#systems-analysis)
+- [Signals and Systems](#signals-and-systems)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Data Structures](#data-structures)
 - [Algorithm Design I](#algorithm-design-i)
 - [Formal Languages and Automata Theory](#formal-languages-and-automata-theory)
 - [Advanced Programming](#advanced-programming)
-- [Compiler Design and Implementation](#compiler-design-and-implementation)
+- [Programming Languages and Compiler Design](#programming-languages-and-compiler-design)
 - [Operating Systems](#operating-systems)
 - [Database Design](#database-design)
 - [Computer Networks](#computer-networks)
 - [Internet Engineering](#internet-engineering)
-- [Programming Languages Design](#programming-languages-design)
 - [Software Engineering](#software-engineering)
 - [Introduction to Computing Systems and Programming](#introduction-to-computing-systems-and-programming)
 - [Introduction to Software Testing](#introduction-to-software-testing)
@@ -95,7 +94,7 @@ Author :
 
 
 
-## Systems Analysis
+## Signals and Systems
 
 **Textbook(s):** Signals and systems, Oppenheim
 
@@ -143,9 +142,9 @@ Author :
 
 
 
-## Compiler Design and Implementation
+## Programming Languages and Compiler Design
 
-**Textbook(s):** Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman , Compilers: Principles, Techniques, and Tools, Second Edition Boston: Addison-Wesley, 2007.
+**Textbook(s):** Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman , Compilers: Principles, Techniques, and Tools, Second Edition Boston: Addison-Wesley, 2007 | Modern Compiler Implementation in Java, Secone Edition, Andrew W. Appel and Jens Plaberg
 
 **Topics:** Introduction to different language translators | An abstract introduction to compiler components and their responsibilities | Scanner and its implementation | Parser and its implementation: grammar definition, grammar classification, derivation and parsing concept, non-predictive recursive descent parser, predictive parsers: LL(K), SRL(K), CRL(K), LALR(K), error handling of LL and LR parsers: panic mode, local and global approaches, power of parsers | Code analysis techniques exploited during parsing: syntax directed definitions (SDD) and syntax directed schema (SDS) | Semantics analyzer: the concepts and scope, type checking and approaches | Intermediate code generation: expressions, assignment, control flow instruction | Management of run-time environment: stack and heap, code generation for procedure definition and calls, arrangement of objects in memory, dynamic lookup in object-oriented languages | Intermediate and machine code optimization: control flow analysis, loop and block optimization, peephole optimization
 
@@ -153,7 +152,7 @@ Author :
 
 ## Operating Systems
 
-**Textbook(s):** A. Silberschatz, P. B. Galvin, and G. Gagne, &quot;Operating System Concepts&quot;, 9th Ed., 2013.
+**Textbook(s):** A. Silberschatz, P. B. Galvin, and G. Gagne, &quot;Operating System Concepts&quot;, 10th Ed., 2018.
 
 **Topics:** Introduction (Basic terminologies and concepts as well as different computer systems architectures and software systems, Interrupts, Dual-mode, …) | Operating system structures (Different architectures for operating systems, system calls, APIs, virtualization, cloud computing) | Processes (PCB, context switch, short-term, medium-term and long-term schedulers, process creation and communication) | Threads (Multithreading models, thread management) | Process synchronization (Critical sections and respective solutions, semaphores, monitors, classic synchronization problems) | CPU scheduling (Preemptive and non-preemptive scheduling, CPU scheduling algorithms, SMP, SMT, multicore scheduling, real-time scheduling) | Deadlock handling (Necessary conditions for deadlock, resource-allocation graph, deadlock prevention, avoidance, detection, and recovery) | Main memory management (Binding, physical and logical addresses, fragmentation, paging, TLB, shared pages, segmentation) | Virtual memory management (Demand paging, page fault handling, copy-on-write, page replacement policies, Belady&#39;s anomaly, frame allocation, thrashing, memory-mapped I/O and files, kernel memory management) | Storage management (File system structure, virtual file system, storage allocation methods) | I/O management (Interrupts, I/O subsystem, I/O management and performance aspects)
 
@@ -180,15 +179,6 @@ Author :
 **Textbook(s):** M. Fowler, Patterns of Enterprise Application Architecture. Addison-Wesley, 2003 | D.C. Ashmore, The Java EE Architect&#39;s Handbook. 2nd ed., DVT Press,2014 | M. Harwood, M. Goncalves, and M. Pemble, Security Strategies in Web Applications and Social Networking. Jones &amp; Bartlett Learning, 2010.
 
 **Topics:** An Introduction to Web- HTTP protocol - Web page design | Create simple web applications (based on Servlet, PHP or .NET) | 3-tier architectural pattern | Connection to Databases - Mapping Objects to Relations | Domain logic organization | Frameworks and layout patterns on the web | Manage Sessions | Concurrency control on web systems | Distributed web systems | Clustering and cloud computing | Web application&#39;s security | Create Authenticated Web Sites | Performance of Web-based systems | Web services | Semantic web, social networks | User interface design on the web | Mobile programming on the web
-
-
-
-## Programming Languages Design
-
-**Textbook(s):** Peter Linz, &quot;An Introduction to Formal Languages and Automata&quot;, 5thEdition, 2012. | John E. Hopcroft, Rajeev Motwani, Jeffrey Ullman, &quot;Introduction to Automata Theory, Languages, and Computation&quot;, 3rd Edition, 2007 | Micheal Sipser, &quot;Introduction to the Theory of Computation&quot;,
-3rd Edition, 2013.
-
-**Topics:** Finite automata, regular languages, and regular grammars | Context free grammars, languages, and pushdown automata | Context sensitive grammars, languages | Turing machines, unrestricted grammars | Decidability | Computational complexity
 
 ## Software Engineering
 
