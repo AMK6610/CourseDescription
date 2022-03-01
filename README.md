@@ -17,7 +17,7 @@ Author :
 - [Differential Equations](#differential-equations)
 - [Engineering Probability and Statistics](#engineering-probability-and-statistics)
 - [Engineering Mathematics](#engineering-mathematics)
-- [Signals and Systems](#signals-and-ystems)
+- [Signals and Systems](#signals-and-systems)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Data Structures](#data-structures)
 - [Algorithm Design I](#algorithm-design-i)
