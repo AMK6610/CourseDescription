@@ -23,7 +23,7 @@ Author :
 - [Algorithm Design I](#algorithm-design-i)
 - [Formal Languages and Automata Theory](#formal-languages-and-automata-theory)
 - [Advanced Programming](#advanced-programming)
-- [Compiler Design and Implementation](#compiler-design-and-implementation)
+- [Programming Languages and Compiler Design](#programming-languages-and-compiler-design)
 - [Operating Systems](#operating-systems)
 - [Database Design](#database-design)
 - [Computer Networks](#computer-networks)
@@ -142,9 +142,9 @@ Author :
 
 
 
-## Compiler Design and Implementation
+## Programming Languages and Compiler Design
 
-**Textbook(s):** Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman , Compilers: Principles, Techniques, and Tools, Second Edition Boston: Addison-Wesley, 2007.
+**Textbook(s):** Alfred V. Aho, Ravi Sethi, and Jeffrey D. Ullman , Compilers: Principles, Techniques, and Tools, Second Edition Boston: Addison-Wesley, 2007 | Modern Compiler Implementation in Java, Secone Edition, Andrew W. Appel and Jens Plaberg
 
 **Topics:** Introduction to different language translators | An abstract introduction to compiler components and their responsibilities | Scanner and its implementation | Parser and its implementation: grammar definition, grammar classification, derivation and parsing concept, non-predictive recursive descent parser, predictive parsers: LL(K), SRL(K), CRL(K), LALR(K), error handling of LL and LR parsers: panic mode, local and global approaches, power of parsers | Code analysis techniques exploited during parsing: syntax directed definitions (SDD) and syntax directed schema (SDS) | Semantics analyzer: the concepts and scope, type checking and approaches | Intermediate code generation: expressions, assignment, control flow instruction | Management of run-time environment: stack and heap, code generation for procedure definition and calls, arrangement of objects in memory, dynamic lookup in object-oriented languages | Intermediate and machine code optimization: control flow analysis, loop and block optimization, peephole optimization
 
