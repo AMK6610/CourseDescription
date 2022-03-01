@@ -152,7 +152,7 @@ Author :
 
 ## Operating Systems
 
-**Textbook(s):** A. Silberschatz, P. B. Galvin, and G. Gagne, &quot;Operating System Concepts&quot;, 9th Ed., 2013.
+**Textbook(s):** A. Silberschatz, P. B. Galvin, and G. Gagne, &quot;Operating System Concepts&quot;, 10th Ed., 2018.
 
 **Topics:** Introduction (Basic terminologies and concepts as well as different computer systems architectures and software systems, Interrupts, Dual-mode, …) | Operating system structures (Different architectures for operating systems, system calls, APIs, virtualization, cloud computing) | Processes (PCB, context switch, short-term, medium-term and long-term schedulers, process creation and communication) | Threads (Multithreading models, thread management) | Process synchronization (Critical sections and respective solutions, semaphores, monitors, classic synchronization problems) | CPU scheduling (Preemptive and non-preemptive scheduling, CPU scheduling algorithms, SMP, SMT, multicore scheduling, real-time scheduling) | Deadlock handling (Necessary conditions for deadlock, resource-allocation graph, deadlock prevention, avoidance, detection, and recovery) | Main memory management (Binding, physical and logical addresses, fragmentation, paging, TLB, shared pages, segmentation) | Virtual memory management (Demand paging, page fault handling, copy-on-write, page replacement policies, Belady&#39;s anomaly, frame allocation, thrashing, memory-mapped I/O and files, kernel memory management) | Storage management (File system structure, virtual file system, storage allocation methods) | I/O management (Interrupts, I/O subsystem, I/O management and performance aspects)
 
