@@ -17,7 +17,7 @@ Author :
 - [Differential Equations](#differential-equations)
 - [Engineering Probability and Statistics](#engineering-probability-and-statistics)
 - [Engineering Mathematics](#engineering-mathematics)
-- [Systems Analysis](#systems-analysis)
+- [Signals and Systems](#signals-and-ystems)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Data Structures](#data-structures)
 - [Algorithm Design I](#algorithm-design-i)
@@ -94,7 +94,7 @@ Author :
 
 
 
-## Systems Analysis
+## Signals and Systems
 
 **Textbook(s):** Signals and systems, Oppenheim
 
